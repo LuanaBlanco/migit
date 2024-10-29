@@ -2,3 +2,4 @@ perro 2
 perro 65
 gato 1
 gato 2
+gato 3
