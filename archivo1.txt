@@ -1,2 +1,3 @@
 perro 1
-perro 4
+perro 2
+perro 3
